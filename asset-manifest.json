@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sunday-service-vr/static/css/main.26a6ace6.css",
+    "main.js": "/sunday-service-vr/static/js/main.8f1d408e.js",
+    "static/js/787.1ced9dd2.chunk.js": "/sunday-service-vr/static/js/787.1ced9dd2.chunk.js",
+    "index.html": "/sunday-service-vr/index.html",
+    "main.26a6ace6.css.map": "/sunday-service-vr/static/css/main.26a6ace6.css.map",
+    "main.8f1d408e.js.map": "/sunday-service-vr/static/js/main.8f1d408e.js.map",
+    "787.1ced9dd2.chunk.js.map": "/sunday-service-vr/static/js/787.1ced9dd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a6ace6.css",
+    "static/js/main.8f1d408e.js"
+  ]
+}
